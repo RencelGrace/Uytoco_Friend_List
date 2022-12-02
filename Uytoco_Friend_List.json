@@ -1,0 +1,51 @@
+[
+    {
+        "first Name" : "Rencel Grace",
+        "last Name" : "Uytoco",
+        "age" : 22,
+        "address" : "Adriana Maloto Compound Lopez Jaena Street Barangay Infante Molo Iloilo City",
+        "contact number" : "09089338690"
+    },
+
+    {
+        "FRIEND LIST" : "Top 3",
+
+        "name" : "Christian Lloyd",
+        "age" : 22,
+        "address" :
+        {
+            "address" : "San Miguel, Jordan Guimaras",
+            "country" : "Philippines"
+        },
+        "likes" : "Beach, Out of town",
+        "dislikes" : "Seafoods",
+        "feeling" : "Tired"
+    },
+
+    {
+        "name" : "Gaille Cabanggay",
+        "age" : 22,
+        "address" :
+        {
+            "address" : "Deca homes, Sta. Barbara Iloilo",
+            "country" : "Philippines"
+        },
+        "likes" : "Dogs, Music, TV Series, and Games",
+        "dislikes" : "Spicy foods, and Lose Streaks",
+        "feeling" : "Tired"
+    },
+
+    {
+        "name" : "Diane Angelique Torres",
+        "age" : 21,
+        "address" :
+        {
+            "address" : "Pandaraonan, Nueva Valencia, Guimaras",
+            "country" : "Philippines"
+        },
+        "likes" : "Kpop, Sweets, and Dogs",
+        "dislikes" : "Dark and insects",
+        "feeling" : "Hungry"
+    }
+
+]
